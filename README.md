@@ -1,4 +1,5 @@
 <p align="justify">
+  
 # Práctica 3
 ## Integrantes
 - Dante Mejía Silva
