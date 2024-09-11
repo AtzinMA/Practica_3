@@ -15,7 +15,7 @@ En los robots Epson, como el Epson C4, el comando GO se utiliza para controlar e
 - **Simplicidad:** Al no requerir el cálculo de trayectorias complejas, su implementación es más sencilla y rápida.
 - **Reducción de tiempos muertos:** Minimiza los tiempos de inactividad entre operaciones, aumentando la eficiencia de la producción.
 
-En términos generales, el comando GO se utiliza en aplicaciones donde la velocidad es prioritaria, como el traslado de piezas entre estaciones de trabajo, el transporte de herramientas o el movimiento entre zonas seguras dentro de un entorno controlado.
+En términos generales, el comando GO se utiliza en aplicaciones donde la velocidad es prioritaria, como el traslado de piezas entre estaciones de trabajo, el transporte de herramientas o el movimiento entre zonas seguras dentro de un entorno controlado. [1]
 
 
 ## Instrucciones
