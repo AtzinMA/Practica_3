@@ -1,5 +1,3 @@
-<p align="justify">
-  
 # Práctica 3
 ## Integrantes
 - Dante Mejía Silva
@@ -84,6 +82,5 @@ La programación en el software Epson RC+ permitió definir y ajustar cada posic
 
 [1] 	EpsonCompany, «Especialistas en automatización industrial». 2024, https://www.epson.es/es_ES/robots
 
-</p>
 
 
