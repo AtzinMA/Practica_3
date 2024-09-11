@@ -73,7 +73,10 @@ Para finalizar se siguó en la misma sintonía de programación para continuar l
 
 ***Atzin Morales Alejandre:***
 
-***Dante Mejía Silva:***
+***Dante Mejía Silva:*** 
+En conclusión, la práctica de laboratorio en robótica permitió programar y ejecutar de manera eficiente una secuencia compleja con el robot Epson. A través de la planificación cuidadosa de las trayectorias, se logró que el robot tomara y moviera fusibles con precisión, evitando colisiones y errores. La correcta manipulación de las coordenadas X, Y y Z, así como el uso de comandos para controlar la pinza, fueron claves para garantizar la seguridad y efectividad del proceso.
+
+La programación en el software Epson RC+ permitió definir y ajustar cada posición, logrando la automatización de la tarea. La secuencia más compleja, como el intercambio de fusibles y su reposicionamiento, fue implementada exitosamente, lo que demuestra un entendimiento sólido de las operaciones del robot y la capacidad de ejecutar movimientos precisos. En resumen, la práctica cumplió con los objetivos planteados y proporcionó una experiencia valiosa en la programación y control de robots industriales.
 
 ## Referencias Bibliográficas 
 
