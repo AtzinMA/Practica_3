@@ -3,6 +3,19 @@
 - Dante Mejía Silva
 - Atzin Morales Alejandre
 
+## Introducción
+
+En los robots Epson, como el Epson C4, el comando GO se utiliza para controlar el movimiento del robot, permite la programación de robots para realizar movimientos rápidos y directos entre dos puntos, sin necesidad de seguir una trayectoria específica. Se enfoca principalmente en la velocidad, lo que lo convierte en una opción ideal en situaciones donde el tiempo es un factor clave y la precisión del recorrido no es esencial.
+
+*Usos y ventajas:*
+
+- Velocidad: Permite al robot desplazarse de un punto a otro de manera rápida, reduciendo tiempos de ciclo en procesos industriales.
+- Trayectoria no controlada: No se preocupa por seguir una trayectoria precisa, lo que facilita movimientos rápidos cuando la ruta no es crítica.
+- Optimización de procesos: Es ideal para optimizar procesos en los que la rapidez de los movimientos entre posiciones es más importante que la exactitud del desplazamiento.
+- Simplicidad: Al no requerir el cálculo de trayectorias complejas, su implementación es más sencilla y rápida.
+- Reducción de tiempos muertos: Minimiza los tiempos de inactividad entre operaciones, aumentando la eficiencia de la producción.
+
+En términos generales, el comando GO se utiliza en aplicaciones donde la velocidad es prioritaria, como el traslado de piezas entre estaciones de trabajo, el transporte de herramientas o el movimiento entre zonas seguras dentro de un entorno controlado.
 
 
 ## Instrucciones
