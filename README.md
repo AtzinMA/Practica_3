@@ -7,7 +7,7 @@
 
 ## Instrucciones
 
-Primero, se analizó la trayectoria que debía seguir el robot Epson. Esta consistía en los siguientes pasos: inicialmente, el robot debía agarrar un fusible y colocarlo en una caja situada debajo de su brazo. Luego, debía tomar otro fusible, ubicado en el lado opuesto al del primer fusible, y colocarlo en la posición del primer fusible retirado. Finalmente, el fusible que se encontraba en la caja era nuevamente tomado para ser colocado en la posición del segundo fusible. 
+Primero, se analizó la trayectoria que debía seguir el robot Epson. Esta consistía en los siguientes pasos: inicialmente, el robot debía agarrar un fusible y colocarlo en una caja situada debajo de su brazo. Luego, debía tomar otro fusible, ubicado en el lado opuesto al del primer fusible, y colocarlo en la posición del primer fusible retirado. Finalmente, el fusible que se encontraba en la caja era nuevamente tomado para ser colocado en la posición del segundo fusible. Al mismo tiempo se guardaban todas la posiciones analizadas.
 
 ![Imagen de WhatsApp 2024-09-06 a las 21 07 07_ce4dab11](https://github.com/user-attachments/assets/fcbd7f5a-f674-4506-a0c9-0d850a1aba28)
 
@@ -60,6 +60,15 @@ Una vez tomado el fusible se regresa el brazo a la posición “primero” y des
 Ahora, es necesario soltar el fusible encima de la caja, por lo que se toma la posición “tercero” la cual corresponde a donde el brazo se encuentra encima de la caja y posteriormente se suelta el fusible mediante el comando “on 2”.
 
 ![image](https://github.com/user-attachments/assets/5fdee821-d9a1-4b85-a74d-5a547e87f3c4)
+
+Una vez ubicado el primer fusible encima de la caja es necesario alzar un poco el brazo, de esta manera evitamos tirar erroneamente al suelo el fusible.
+
+Después cuidadosamente tratando de evitar una colisión se movió el brazo a la posición “cuarto”, la cual corresponde al punto donde el brazo está encima del segundo fusible, es decir, las coordenadas X y Y son las correctas, sin embargo, el brazo en la coordenada Z se encuentra desplazado un poco hacia arriba.
+
+La posición “quinto” corresponde al punto donde el brazo toma el segundo fusible, es decir, se coloca se disminuye en Z para bajar el brazo. Para tomar el brazo es necesario cerrar la pinza del brazo, esto mediante el comando “off 2”.
+
+Para finalizar se siguó en la misma sintonía de programación para continuar la trayectoria previamente analizada. Concretando con éxito una trayectoria más compleja y extensa utilizando el brazo robótico.
+
 
 
 
