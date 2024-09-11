@@ -69,6 +69,15 @@ La posición “quinto” corresponde al punto donde el brazo toma el segundo fu
 
 Para finalizar se siguó en la misma sintonía de programación para continuar la trayectoria previamente analizada. Concretando con éxito una trayectoria más compleja y extensa utilizando el brazo robótico.
 
+## Conclusiones
+
+***Atzin Morales Alejandre:***
+
+***Dante Mejía Silva:***
+
+## Referencias Bibliográficas 
+
+[1] 	EpsonCompany, «Especialistas en automatización industrial». 2024, https://www.epson.es/es_ES/robots
 
 
 
